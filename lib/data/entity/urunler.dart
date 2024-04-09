@@ -8,6 +8,6 @@ class Urunler {
   int id;
   String ad;
   String resim;
-  double fiyat;
+  int fiyat;
   
 }
